@@ -3,14 +3,14 @@ The Financial Statement Analyzer is a Python tool for parsing bank statements fr
 
 
 ## Table of Contents
-- Overview
-- Supported Banks
-- Goals
-- Installation
-- Usage
-- Output Structure
-- Dependencies
-- To do
+- [Overview](#overview)
+- [Supported Banks](#Supported-banks)
+- [Goals](#Goals)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Output Structure](#Output-structure)
+- [Dependencies](#Dependencies)
+- [To do](#To-Do)
 
 ## Overview:
 The Bank Statement Parser processes PDF-based bank statements, extracts key financial information, and categorizes transactions into various types such as UPI, IMPS, NEFT, salary, cheque deposits, etc. The extracted data can then be utilized for financial analysis, fraud detection, and more.
